@@ -1,7 +1,7 @@
 # ARM_LoopBack_Test
 SPI, UART, I2C, DMA- Loopback test using FreeRTOS (OS) + LWIP (Ethernet TCP/IP).
 
-** Tested on STM32 Nucleo-144 development board with STM32F746ZGT6 MCU. ** 
+** Tested on STM32 Nucleo-144 development board with STM32F746ZGT6 MCU. 
 
 
 The board is used as server that runs the tasks. In the client side we have a GUI (python) that we
